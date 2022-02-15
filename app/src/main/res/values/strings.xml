@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Ingresar</string>
+    <string name="hint_name">Nombre</string>
+    <string name="pass">Contraseña</string>
+    <string name="entrar">Entrar</string>
+</resources>
